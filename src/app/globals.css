@@ -1,0 +1,115 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.Header-Buttons{
+  background-color: rgb(255, 255, 255);
+  height: 88px;
+  width: 100%;
+  display: flex;
+  gap: 52px;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  font-family: inter;
+
+
+}
+
+.footer{
+  height: 504px;
+  width: 100%;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  gap: 25px;
+  
+}
+.SocialMedia ul{
+ 
+  display: flex;
+ 
+  margin-top: 25px;
+  gap: 25px;
+  margin-left: 250px;
+}
+.li1{
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  width: 100%;
+  gap: 50px;
+  margin-left: 250px;
+}
+.li{
+  gap: 50px;
+  margin-bottom: 50px;
+}
+.searchArea{
+  display: flex;
+  gap: 8px;
+  height: 56px;
+  width: 372px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 25px;
+  align-items: center;
+}
+
+.searchText{
+  font-weight: medium;
+  font-size: 14px;
+  color: rgb(114, 107, 107);
+
+}
+
+.banner1{
+  background-color: rgb(33,28,36);
+  align-items: center;
+  justify-content: center;
+
+  display:flex;
+  
+  height: 632px;
+  width: 100%;
+  color: rgb(140, 119, 160);
+
+  
+}
+
+.textCont1{
+  width: 714px;
+  margin-left: 160px;
+  margin-top: 188px;
+}
+
+.w1{
+  font-size: 25px;
+  color: gray;
+}
+.w2{
+  font-size: 96px;
+  color: white;
+  font-weight: thin;
+  
+}
+.w3{
+  font-size: 18px;
+  color: gray;
+  
+}
+
+.banner-button1{
+  margin-top: 24px;
+  border: solid 3px;
+  width: 191px;
+  height: 56px;
+  font-size: 16;
+  font-weight: bolder;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  
+}

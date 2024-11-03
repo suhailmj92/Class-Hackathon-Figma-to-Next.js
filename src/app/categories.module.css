@@ -1,0 +1,46 @@
+.BC1{
+    
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    height: 352px;
+    width: 100%;
+    
+    gap: 32px;
+}
+.sc1{
+
+    margin-bottom: 32px;
+    height: 32px;
+    width: 1120px;
+    justify-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.sc11{
+    margin-right: 800px;
+}
+.sc2{
+    
+    height: 128px;
+    width: 1120px;
+    display: flex;
+    align-items: center;
+    gap: 35px;
+    
+
+}
+.sc3{
+    
+    background: rgb(237, 237, 237);
+    height: 128px;
+    width: 160px;
+    gap: 32px;
+    border-radius: 25px;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
